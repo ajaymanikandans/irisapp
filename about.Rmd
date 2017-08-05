@@ -1,0 +1,14 @@
+---
+title: "about"
+author: "Ajay Manikandan Sankanran"
+date: "August 4, 2017"
+output: html_document
+---
+
+Prediction plays a major role in the field of analytics. This is a mearly a very simple example how prediction algorithms are used in real time.
+
+The link to the application is: https://ajaymanikandans.shinyapps.io/irisapp/
+
+The link to the source code in gitHub: 
+
+Link to Rpubs presentation:
